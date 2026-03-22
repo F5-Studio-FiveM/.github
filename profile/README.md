@@ -10,13 +10,13 @@
 
 <br>
 
-[![Store](https://img.shields.io/badge/Store-f5stud.io-181825?style=for-the-badge&logo=shopify&logoColor=b4befe)](https://f5stud.io)
+<a href="https://f5stud.io" target="_blank"><img src="https://img.shields.io/badge/Store-f5stud.io-181825?style=for-the-badge&logo=shopify&logoColor=b4befe" alt="Store" /></a>
 &nbsp;&nbsp;
-[![Docs](https://img.shields.io/badge/Docs-docs.f5stud.io-1e1e2e?style=for-the-badge&logo=readthedocs&logoColor=b4befe)](https://docs.f5stud.io)
+<a href="https://docs.f5stud.io" target="_blank"><img src="https://img.shields.io/badge/Docs-docs.f5stud.io-1e1e2e?style=for-the-badge&logo=readthedocs&logoColor=b4befe" alt="Docs" /></a>
 &nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-F5Studio-181825?style=for-the-badge&logo=youtube&logoColor=f38ba8)](https://www.youtube.com/@F5StudioFiveM)
+<a href="https://www.youtube.com/@F5StudioFiveM" target="_blank"><img src="https://img.shields.io/badge/YouTube-F5Studio-181825?style=for-the-badge&logo=youtube&logoColor=f38ba8" alt="YouTube" /></a>
 &nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-Community-1e1e2e?style=for-the-badge&logo=discord&logoColor=89b4fa)](https://discord.f5stud.io)
+<a href="https://discord.f5stud.io" target="_blank"><img src="https://img.shields.io/badge/Discord-Community-1e1e2e?style=for-the-badge&logo=discord&logoColor=89b4fa" alt="Discord" /></a>
 
 </div>
 
@@ -64,7 +64,7 @@ Everything runs on ESX, QBCore and QBox Core. Auto framework detection, you drop
 
 <br>
 
-<a href="https://github.com/F5-Studio-FiveM/f5_safezones">
+<a href="https://github.com/F5-Studio-FiveM/f5_safezones" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=catppuccin_mocha&bg_color=11111b&hide_border=true&icon_color=b4befe&title_color=b4befe&text_color=cdd6f4" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=default&hide_border=true" />
@@ -94,11 +94,11 @@ If you're looking for scripts that just work and someone actually stands behind 
 
 <br>
 
-[![Store](https://img.shields.io/badge/Store-f5stud.io-b4befe?style=for-the-badge&logo=shopify&logoColor=white&labelColor=181825)](https://f5stud.io)
+<a href="https://f5stud.io" target="_blank"><img src="https://img.shields.io/badge/Store-f5stud.io-b4befe?style=for-the-badge&logo=shopify&logoColor=white&labelColor=181825" alt="Store" /></a>
 &nbsp;&nbsp;
-[![Docs](https://img.shields.io/badge/Documentation-docs.f5stud.io-89b4fa?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=1e1e2e)](https://docs.f5stud.io)
+<a href="https://docs.f5stud.io" target="_blank"><img src="https://img.shields.io/badge/Documentation-docs.f5stud.io-89b4fa?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=1e1e2e" alt="Docs" /></a>
 &nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-discord.f5stud.io-cba6f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=181825)](https://discord.f5stud.io)
+<a href="https://discord.f5stud.io" target="_blank"><img src="https://img.shields.io/badge/Discord-discord.f5stud.io-cba6f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=181825" alt="Discord" /></a>
 
 <br>
 
