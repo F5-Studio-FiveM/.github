@@ -107,6 +107,7 @@ xt_color=cdd6f4" width="400" />
 ![License](https://img.shields.io/github/license/F5-Studio-FiveM/f5_boost?style=for-the-badge&label=License&color=1e1e2e&labelColor=11111b&logo=opensourceinitiative&logoColor=cdd6f4)
 
 </div>
+
 ---
 
 <div align="center">
