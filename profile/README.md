@@ -66,9 +66,11 @@ Everything runs on ESX, QBCore and QBox Core. Auto framework detection, you drop
 
 <a href="https://github.com/F5-Studio-FiveM/f5_safezones" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=catppuccin_mocha&bg_color=11111b&hide_border=true&icon_color=b4befe&title_color=b4befe&text_color=cdd6f4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=catppuccin_mocha&bg_color=11111b&hide_bord
+er=true&icon_color=b4befe&title_color=b4befe&text_color=cdd6f4" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=catppuccin_mocha&bg_color=11111b&hide_border=true&icon_color=b4befe&title_color=b4befe&text_color=cdd6f4" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=catppuccin_mocha&bg_color=11111b&hide_border=true&icon_color=b4befe&title_color=b4bef
+e&text_color=cdd6f4" width="400" />
   </picture>
 </a>
 
@@ -82,8 +84,29 @@ Everything runs on ESX, QBCore and QBox Core. Auto framework detection, you drop
 &nbsp;
 ![License](https://img.shields.io/github/license/F5-Studio-FiveM/f5_safezones?style=for-the-badge&label=License&color=1e1e2e&labelColor=11111b&logo=opensourceinitiative&logoColor=cdd6f4)
 
-</div>
+<br><br>
 
+<a href="https://github.com/F5-Studio-FiveM/f5_boost" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_boost&theme=catppuccin_mocha&bg_color=11111b&hide_border=t
+rue&icon_color=b4befe&title_color=b4befe&text_color=cdd6f4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_boost&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_boost&theme=catppuccin_mocha&bg_color=11111b&hide_border=true&icon_color=b4befe&title_color=b4befe&te
+xt_color=cdd6f4" width="400" />
+  </picture>
+</a>
+
+<br><br>
+
+![Stars](https://img.shields.io/github/stars/F5-Studio-FiveM/f5_boost?style=for-the-badge&label=Stars&color=181825&labelColor=11111b&logo=github&logoColor=cdd6f4)
+&nbsp;
+![Forks](https://img.shields.io/github/forks/F5-Studio-FiveM/f5_boost?style=for-the-badge&label=Forks&color=1e1e2e&labelColor=11111b&logo=git&logoColor=cdd6f4)
+&nbsp;
+![Last Commit](https://img.shields.io/github/last-commit/F5-Studio-FiveM/f5_boost?style=for-the-badge&label=Last%20Commit&color=181825&labelColor=11111b&logo=github&logoColor=cdd6f4)
+&nbsp;
+![License](https://img.shields.io/github/license/F5-Studio-FiveM/f5_boost?style=for-the-badge&label=License&color=1e1e2e&labelColor=11111b&logo=opensourceinitiative&logoColor=cdd6f4)
+
+</div>
 ---
 
 <div align="center">
