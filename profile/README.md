@@ -67,32 +67,10 @@ Everything runs on ESX, QBCore and QBox Core. Auto framework detection, you drop
 
 <br>
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/F5-Studio-FiveM/f5_safezones" target="_blank">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=catppuccin_mocha&bg_color=11111b&hide_bord
-er=true&icon_color=b4befe&title_color=b4befe&text_color=cdd6f4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_safezones&theme=catppuccin_mocha&bg_color=11111b&hide_border=true&icon_color=b4befe&title_color=b4bef
-e&text_color=cdd6f4" />
-</picture>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/F5-Studio-FiveM/f5_boost" target="_blank">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_boost&theme=catppuccin_mocha&bg_color=11111b&hide_border=t
-rue&icon_color=b4befe&title_color=b4befe&text_color=cdd6f4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_boost&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=F5-Studio-FiveM&repo=f5_boost&theme=catppuccin_mocha&bg_color=11111b&hide_border=true&icon_color=b4befe&title_color=b4befe&te
-xt_color=cdd6f4" />
-</picture>
-</a>
-</td>
-</tr>
-</table>
+
+[![f5_safezones](https://img.shields.io/github/stars/F5-Studio-FiveM/f5_safezones?style=for-the-badge&logo=github&logoColor=b4befe&label=f5_safezones&labelColor=11111b&color=181825)](https://github.com/F5-Studio-FiveM/f5_safezones)
+&nbsp;
+[![f5_boost](https://img.shields.io/github/stars/F5-Studio-FiveM/f5_boost?style=for-the-badge&logo=github&logoColor=b4befe&label=f5_boost&labelColor=11111b&color=181825)](https://github.com/F5-Studio-FiveM/f5_boost)
 
 </div>
 
